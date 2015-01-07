@@ -3,7 +3,7 @@ Weighted-Majority
 
 Weighted Majority Trainer
 
-Java Version: 1.7
+Java Version: 1.7 <br>
 Dependencies: WEKA (jar file)
 
 Implements a weighted majority trainer algorithm. Uses WEKA for parsing through the dataset. The weighted majority implementation used the attributes of the dataset as predictors. Hence
